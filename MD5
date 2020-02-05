@@ -1,0 +1,10 @@
+9569884bafdefdb8f4dd6244ea1159f8 *DESCRIPTION
+3fef946024a3e54f418cf8f0bae65817 *NAMESPACE
+02c9e23fba9af4a87c4da3f74319cea3 *R/extractCode.R
+a2cae217a8323939a4c2c7c8630735bf *R/rpubs_code.R
+387ed0a89fd542b90108e8a33b130edf *README.md
+0645fc606484750f5f84a236b06385a8 *man/extractCode-deprecated.Rd
+da63281a350da127b6dc797983cca8c1 *man/rpubs_code.Rd
+ca4bca0b02158932263d9daba2793c4e *tests/testthat.R
+09d416f16423611f3d039a121193b050 *tests/testthat/test-extractCode.R
+06a85030c2ca4bf798d6597a739f98fa *tests/testthat/test-rpubs_code.R
